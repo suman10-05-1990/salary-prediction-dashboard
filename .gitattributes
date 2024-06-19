@@ -1,0 +1,2 @@
+*.salary[[:space:]]prediction[[:space:]]HRs filter=lfs diff=lfs merge=lfs -text
+*[[:space:]]salary[[:space:]]prediction[[:space:]]HRs filter=lfs diff=lfs merge=lfs -text
